@@ -1,0 +1,17 @@
+html{
+	background-color: gray;
+	border-color: red;
+	border-style:double;
+	padding: 100px 10px 1px 10px;
+	
+}
+body {
+	font-size: 10pt;
+	font-family: verdana, geneva,arial;
+	text-align:center;
+	line-height: 14pt;
+	display:block;
+	letter-spacing:10pt;
+
+	
+};
